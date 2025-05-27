@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\1 _mamani silva_zuna ugarte\1_MAMANI SILVA_M\0_PC1_10\0_PC1_10\bin\Debug\0_PC1_10.exe.config
+C:\Users\alumno.ET37\Desktop\1 _mamani silva_zuna ugarte\1_MAMANI SILVA_M\0_PC1_10\0_PC1_10\bin\Debug\0_PC1_10.exe
+C:\Users\alumno.ET37\Desktop\1 _mamani silva_zuna ugarte\1_MAMANI SILVA_M\0_PC1_10\0_PC1_10\bin\Debug\0_PC1_10.pdb
+C:\Users\alumno.ET37\Desktop\1 _mamani silva_zuna ugarte\1_MAMANI SILVA_M\0_PC1_10\0_PC1_10\obj\Debug\0_PC1_10.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\1 _mamani silva_zuna ugarte\1_MAMANI SILVA_M\0_PC1_10\0_PC1_10\obj\Debug\0_PC1_10.exe
+C:\Users\alumno.ET37\Desktop\1 _mamani silva_zuna ugarte\1_MAMANI SILVA_M\0_PC1_10\0_PC1_10\obj\Debug\0_PC1_10.pdb
