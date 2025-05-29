@@ -1,0 +1,14 @@
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\bin\Debug\net8.0\1_PC_15.exe
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\bin\Debug\net8.0\1_PC_15.deps.json
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\bin\Debug\net8.0\1_PC_15.runtimeconfig.json
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\bin\Debug\net8.0\1_PC_15.dll
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\bin\Debug\net8.0\1_PC_15.pdb
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.AssemblyInfoInputs.cache
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.AssemblyInfo.cs
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.csproj.CoreCompileInputs.cache
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.dll
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\refint\1_PC_15.dll
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.pdb
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\1_PC_15.genruntimeconfig.cache
+C:\Users\dylanz523\Desktop\1_PC_15\1_PC_15\obj\Debug\net8.0\ref\1_PC_15.dll
