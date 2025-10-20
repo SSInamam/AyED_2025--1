@@ -1,0 +1,14 @@
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\bin\Debug\net8.0\1_PC1_14.exe
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\bin\Debug\net8.0\1_PC1_14.deps.json
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\bin\Debug\net8.0\1_PC1_14.runtimeconfig.json
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\bin\Debug\net8.0\1_PC1_14.dll
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\bin\Debug\net8.0\1_PC1_14.pdb
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.AssemblyInfoInputs.cache
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.AssemblyInfo.cs
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.csproj.CoreCompileInputs.cache
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.dll
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\refint\1_PC1_14.dll
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.pdb
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\1_PC1_14.genruntimeconfig.cache
+C:\Users\Alumno_Invitado\Desktop\1_MAMANI SILVA_M\1_PC1_14\1_PC1_14\obj\Debug\net8.0\ref\1_PC1_14.dll
